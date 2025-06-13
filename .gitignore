@@ -1,0 +1,18 @@
+# Node modules
+/frontend/node_modules
+
+# Laravel vendor
+/backend/vendor
+
+# Laravel env
+/backend/.env
+
+# Composer dependencies
+/backend/composer.lock
+
+# Next.js build
+/frontend/.next
+
+# OS & Editor stuff
+.DS_Store
+*.log
